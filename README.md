@@ -8,4 +8,6 @@ Notebooks for GT-Scan2
 
 - This [AWS blog post](https://aws.amazon.com/blogs/aws/genome-engineering-applications-early-adopters-of-the-cloud/) describes the functionality and cloud architecture of the GT-Scan2 tool.  
 
-- This [5 minute video](https://www.youtube.com/watch?v=7i17szaOBg0) shows Dr. Denis Bauer describing the Serverless architecture of GT-Scan2.
+- This [5 minute video](https://www.youtube.com/watch?v=7i17szaOBg0) shows Dr. Denis Bauer describing the Serverless architecture of GT-Scan2.  
+
+[![Dr. Denis Bauer discussing GT-Scan2 architecture](/GT-Scan2-Arch.png?raw=true)](https://www.youtube.com/watch?v=7i17szaOBg0)
