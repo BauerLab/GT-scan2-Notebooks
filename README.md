@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/BauerLab/GT-scan2-Notebooks/master)
+
 # GT-scan2-Notebooks
 Notebooks for GT-Scan2
 
