@@ -1,0 +1,7 @@
+numpy
+pandas
+plotly
+random
+requests
+seaborn
+warnings
