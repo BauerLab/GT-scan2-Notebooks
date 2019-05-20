@@ -1,0 +1,7 @@
+sklearn
+pybedtools
+
+numpy
+pandas
+plotly
+seaborn
